@@ -1,0 +1,20 @@
+{
+  "name": "best-practices",
+  "description": "A package using versioning best-practices",
+  "author": "Charlie Robbins <charlie@nodejitsu.com>",
+  "dependencies": {
+    "colors": "0.x.x",
+    "express": "2.3.x",
+    "optimist": "0.2.x"
+  },
+  "devDependencies": {
+    "vows": "0.5.x"
+  },
+  "engine": "node >= 0.4.1",
+  "version": "1.0.0",
+  "main": "acceso_fichero.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
